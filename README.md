@@ -18,4 +18,4 @@
     
 
  ## How to run
-    This is a simple maven project you can run test with the command mvn  clean test
+    This is a simple spring boot project you can run test with the command mvn  clean test and run spring-boot:run
